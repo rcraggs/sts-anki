@@ -1,2 +1,1 @@
-# sts-anki
-Anki Deck for Slay the Spire
+# Anki Deck for Slay the Spire
